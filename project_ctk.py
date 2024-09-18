@@ -18,8 +18,8 @@ set_appearance_mode('dark')
 #widget themes are set to green
 set_default_color_theme('green')
 #main windows icon
-#icon = "C:\\Users\\SP\\Desktop\\VSC\\tk\\icons8-statue-of-liberty-100.ico"
-#root.iconbitmap(icon)
+icon = ".\icons8-statue-of-liberty-100.ico"
+root.iconbitmap(icon)
 
 
 #fucnctions to be displayed on a blank page
