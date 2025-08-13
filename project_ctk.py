@@ -306,7 +306,7 @@ def theme():
 
 
 #create a widget to display title
-title_label=CTkLabel(root, text="Let's Date", font=('whisper',160),padx=15)
+title_label=CTkLabel(root, text="The Chronicle", font=('whisper',160),padx=15)
 title_label.pack()
 #create a widget to display description
 description_label=CTkLabel(root, text='Embark on a captivating journey through time with our app! Enter any date,\nand instantly unlock a treasure trove of fascinating historical events that shaped the world.', font=('pacifico',20),anchor='center')
@@ -334,4 +334,5 @@ root.state('zoomed')
 
 #mainloop for the app
 root.mainloop()
+
 
