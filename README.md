@@ -1,4 +1,4 @@
-# Let's Date: Discover History
+# The Chronicle: Discover History
 
 🚀 **Let's Date** is a fun and interactive desktop application that displays notable historical events that occurred on any specific date. You can either select a date manually from a calendar or let the app generate a random date for you!
 
