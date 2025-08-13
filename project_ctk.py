@@ -7,7 +7,7 @@ from play_arena import *
 root=CTk()
 w=root.winfo_screenwidth()
 #setting title
-root.title("Let's date")
+root.title("The Chronicle")
 #gets width and height of the screen
 width= root.winfo_screenwidth()               
 height= root.winfo_screenheight()
@@ -334,3 +334,4 @@ root.state('zoomed')
 
 #mainloop for the app
 root.mainloop()
+
